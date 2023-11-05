@@ -11,6 +11,22 @@
 | [Поиск аномалий (Система алертов)](https://github.com/Alexandr-Korolkov/PortfolioProjects/tree/main/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA%20%D0%B0%D0%BD%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8%D0%B9%20(%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D0%B0%D0%BB%D0%B5%D1%80%D1%82%D0%BE%D0%B2)) |DAG в Airflow для 15 минутного мониторинга и обнаружении анамалий в ключевых показателей нашего продукта. Последующая отправка оповещение в общий чат телеграм ботом. Метод обнаружения анамалий реализован с помощью функции подсчета межквартильного размаха| *Telegram, Airflow, Pandas, Pandahouse, NumPy, Matplotlib, Seaborn, Datetime, Io, GitLab*|
 | [Автоматизация в Airflow](https://github.com/Alexandr-Korolkov/PortfolioProjects/tree/main/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D0%B2%20Airflow) |Автоматизированный скрипт в Airflow для скачивания, преобразования и ежедневной загрузки таблицы из одной БД в другую по расписанию| *Airflow, Pandas, Pandahouse, NumPy, Datetime, Io, GitLab*|
 | [Анализ объектов недвижимости России](https://github.com/Alexandr-Korolkov/PortfolioProjects/tree/main/%D0%94%D0%B5%D1%88%D0%B1%D0%BE%D1%80%D0%B4%20%D0%B2%20Power%20bi) | Анализ рынка недвижимости России, обзор ключевых параметров объектов. Сравнение регионов. Визуалиция данных для последующего составления Дешборда. | *Power bi* |
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
+   ym(94993740, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/94993740" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
 
 
