@@ -13,7 +13,7 @@
 | [Анализ объектов недвижимости России](https://github.com/Alexandr-Korolkov/PortfolioProjects/tree/main/%D0%94%D0%B5%D1%88%D0%B1%D0%BE%D1%80%D0%B4%20%D0%B2%20Power%20bi) | Анализ рынка недвижимости России, обзор ключевых параметров объектов. Сравнение регионов. Визуалиция данных для последующего составления Дешборда. | *Power bi* |
 
 
-<!-- Yandex.Metrika counter -->
+(<!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
    m[i].l=1*new Date();
@@ -29,4 +29,4 @@
    });
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/94993740" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter -->)
